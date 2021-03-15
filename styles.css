@@ -4,8 +4,7 @@ body{
     background-color: rgb(12, 11, 11);
     color: cornsilk;
     margin: 0;
-    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; 
 }
 
 a{
@@ -23,13 +22,12 @@ img{
 
 .header{
     text-align: center;
-   width: 100%;
-   height: 60px;
-   position: fixed; 
-  background-color: rgb(12, 11, 11);
-  top:0;
-  z-index: 1;
-
+    width: 100%;
+    height: 60px;
+    position: fixed; 
+    background-color: rgb(12, 11, 11);
+    top:0;
+    z-index: 1;
 }
 
 .header img{
@@ -39,14 +37,13 @@ img{
 
 }
 
-.header #open  {
-   float: right;
+.header #open{
+    float: right;
     color: cornsilk;
-   font-size: 35px;
-   line-height: 60px;
-   margin-right: 20px;
-   cursor: pointer;
-   
+    font-size: 35px;
+    line-height: 60px;
+    margin-right: 20px;
+    cursor: pointer;
 }
 
 .overlay #close{
@@ -54,8 +51,8 @@ img{
     top:10px;
     right: 20px;
     color: cornsilk;
-   font-size: 40px;
-   cursor: pointer;   
+    font-size: 40px;
+    cursor: pointer;   
 }
 
 .header #open.hide{
@@ -130,7 +127,6 @@ img{
     height: 20%px;
     display: block;
     margin: 0 auto;
-
 }
 
 
@@ -162,8 +158,7 @@ nav ul li a:hover{
 
 .side-icons {
     font-size:1.5em;
-    margin:30px 0 0 55px
-
+    margin:30px 0 0 55px;
 }
 
 .side-icons a:hover{
@@ -202,7 +197,6 @@ nav ul li a:hover{
     width: 80%;
    text-align: center;
    margin: 0 auto;
- 
 }
 
 .about-coment{
@@ -224,7 +218,6 @@ nav ul li a:hover{
 .concept{
     margin-top: 50px;  
     display: flex;
-    
 }
 
 .concept img{
@@ -243,8 +236,7 @@ nav ul li a:hover{
 }
 
 .concept ul{
- text-align: center;
-  
+   text-align: center;
 }
 
 #about .concept ul li{
@@ -260,9 +252,9 @@ nav ul li a:hover{
 }
 
 #about .achevment{
-margin: 0 auto;
-  margin-top: 10px;
-  font-size: 1.8em;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 1.8em;
 }
 
 #roster{
@@ -276,7 +268,6 @@ margin: 0 auto;
 
 .roster-image {
     position: relative;
-    
 }
 
 .roster-image h3{
@@ -319,18 +310,14 @@ margin: 0 auto;
     display: flex;
     height: 80px;
     padding-bottom: 40px;
-
 }
 
 .member-card .number{
-   padding:0 10px;
-   border-right: 1px solid wheat;
-   
+    padding:0 10px;
+    border-right: 1px solid wheat;
     font-size: 3em;
-   line-height: 40px;
-   
-   margin-bottom:0 ;
-
+    line-height: 40px;
+    margin-bottom:0 ;
 }
 
 .member-image img{
@@ -350,13 +337,13 @@ margin: 0 auto;
 }
 
 .member-image .mask{
-width: 100%;
-height: 100%;
-position: absolute;
-top:0;
-left: 0;
-opacity: 0;
-transition: all 0.3s;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left: 0;
+    opacity: 0;
+    transition: all 0.3s;
 }
 
 .member-image:hover .mask{
@@ -372,9 +359,7 @@ transition: all 0.3s;
     display: flex;
     justify-content: space-between;
     padding: 8px 0;
-    
     margin-right: 30px;
-    
 }
 
 .profile ul li span{
@@ -408,16 +393,14 @@ transition: all 0.3s;
 .member-card .name{
     line-height: 1;
     font-family:Arial, Helvetica, sans-serif;
-font-size: 2em;
-padding-left: 10px;
-
+    font-size: 2em;
+    padding-left: 10px;
 }
 
 
 span{
     color:green;
     font-weight: initial;
-    
 }
 
 #gallary{
@@ -432,16 +415,15 @@ span{
 .photo-wrapper img{
     flex-direction: column;
     flex-wrap: wrap;
-    width: 33.333333%;
-    
+    width: 33.333333%;   
 }
 
 
 
 
 span .main-photo{
-width: 100%;
-display: flex;
+    width: 100%;
+    display: flex;
 
 }
 
@@ -458,7 +440,7 @@ table{
 }
 
 tr{
-font-size: 2.5em;
+   font-size: 2.5em;
 }
 
 td{
@@ -476,11 +458,11 @@ td{
 }
 
 .win{
-font-weight: bolder;
+   font-weight: bolder;
 }
 
 .game2020{
-padding-top: 70px;
+   padding-top: 70px;
 }
 
 #project{
@@ -531,13 +513,12 @@ padding-top: 70px;
     color:cornsilk;
     text-align: left;
     font-size: 1em;
-    
 }
 
 #contact{
-width: 100%;
-text-align: center; 
-margin: 0 auto;  
+    width: 100%;
+    text-align: center; 
+    margin: 0 auto;  
 }
 
 .place{
