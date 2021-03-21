@@ -166,7 +166,7 @@
         position:absolute;
         top:65px;
         width:100%;
-        color:blue;
+        color:green;
         font-size:40px ;
         font-weight: bold;
         font-family:Georgia, 'Times New Roman', Times, serif
@@ -179,8 +179,7 @@
         font-size: 20px;
         color:cornsilk;
         text-align: left;
-        font-size: 1em;
-        
+        font-size: 1em;  
     }
 
     #contact{
