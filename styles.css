@@ -241,7 +241,8 @@ nav ul li a:hover{
 
 #about .concept ul li{
     margin-top: 10px;
-    font-size: 1.8em;
+    font-size: 22px;
+    text-align:left;
 }
 
 .concept2 h2{
@@ -254,7 +255,8 @@ nav ul li a:hover{
 #about .achevment{
     margin: 0 auto;
     margin-top: 10px;
-    font-size: 1.8em;
+    font-size: 22px;
+    text-align:center;
 }
 
 #roster{
@@ -293,8 +295,7 @@ nav ul li a:hover{
 .members{
     display: flex;
     width: 100%;
-    flex-wrap: wrap;
-    
+    flex-wrap: wrap;    
 }
 
 .member{
@@ -471,8 +472,7 @@ td{
 }
 
 .image{
-    background-image: url(./images/ball
-.jpg);
+    background-image: url(./images/project.jpg);
 }
 
 .lessons{
@@ -501,8 +501,8 @@ td{
     width:100%;
     color:green;
     font-size:30px ;
-    font-weight: bold;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .lesson-text {
