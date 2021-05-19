@@ -52,7 +52,15 @@
       text-align: center;
     }
     
-
+     .about-coment p{
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+     .achevment{
+        width: 80%;
+        margin: 0 auto;
+    }
 
 
     #roster{
