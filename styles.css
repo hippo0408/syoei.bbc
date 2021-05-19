@@ -363,6 +363,7 @@ nav ul li a:hover{
     justify-content: space-between;
     padding: 8px 0;
     margin-right: 30px;
+    border-bottom: 1px solid #303030;
 }
 
 .profile ul li span{
@@ -371,9 +372,7 @@ nav ul li a:hover{
     font-weight: 500;
     font-size: 14px;
     line-height: 2;
-    color:white;
-    border-bottom: 1px solid #303030;
-    
+    color:white;    
 }
 
 .profile ul li span:first-child{
