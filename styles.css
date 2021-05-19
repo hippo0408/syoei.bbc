@@ -205,7 +205,8 @@ nav ul li a:hover{
 
 .about-coment img{
     border-radius: 50%;
-    width: 300px;
+    width: 250px;
+    height:250px;
     margin-right: 30px;
 }
 
@@ -221,7 +222,8 @@ nav ul li a:hover{
 }
 
 .concept img{
-    width: 300px;
+    width: 250px;
+    height:250px;
     border-radius: 50%;
 }
 
@@ -416,7 +418,8 @@ span{
 .photo-wrapper img{
     flex-direction: column;
     flex-wrap: wrap;
-    width: 33.333333%;   
+    width: 33.333333%;  
+    heght:300px;
 }
 
 
@@ -424,6 +427,7 @@ span{
 
 span .main-photo{
     width: 100%;
+    heght:850px;
     display: flex;
 
 }
